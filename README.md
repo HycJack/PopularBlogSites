@@ -28,6 +28,8 @@
 * <a href="http://drops.wooyun.org/" target="_blank">乌云知识库</a>
 * <a href="http://www.freebuf.com/" target="_blank">FreeBuf.COM | 关注黑客与极客</a>
 * <a href="https://www.anquanke.com/" target="_blank">安全客 - 有思想的安全新媒体</a>
+* <a href="http://www.test404.com" target="_blank">Test404'Blog - 致力于安全研究 程序开发</a>
+* <a href="http://sec-redclub.com/index.php/601.html" target="_blank">在线渗透网站 - 红日攻防实验室</a>
 * <a href="https://www.kanxue.com/" target="_blank">看雪学院</a>
 * <a href="https://www.secpulse.com/archives/category/vul" target="_blank">漏洞 | 安全脉搏</a>
 * <a href="http://www.tiejiang.org" target="_blank">铁匠运维网</a>
