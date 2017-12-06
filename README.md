@@ -26,18 +26,35 @@
 
 ### Security
 * <a href="http://drops.wooyun.org/" target="_blank">乌云知识库</a>
-* <a href="http://www.freebuf.com/" target="_blank">FreeBuf</a>
+* <a href="http://www.freebuf.com/" target="_blank">FreeBuf.COM | 关注黑客与极客</a>
+* <a href="https://www.anquanke.com/" target="_blank">安全客 - 有思想的安全新媒体</a>
+* <a href="https://www.kanxue.com/" target="_blank">看雪学院</a>
+* <a href="https://www.secpulse.com/archives/category/vul" target="_blank">漏洞 | 安全脉搏</a>
+* <a href="http://www.tiejiang.org" target="_blank">铁匠运维网</a>
 * <a href="http://blog.opensecurityresearch.com/" target="_blank">开放安全研究</a>
 * <a href="https://crypto.stanford.edu/" target="_blank">斯坦福大学密码安全学课程</a>
 * <a href="http://staff.ustc.edu.cn/~sycheng/cs/" target="_blank">中国科大计算机安全课程资料</a>
 * <a href="http://blog.jobbole.com/48738/" target="_blank">信息安全入门指南-伯乐在线</a>
+* <a href="" target="_blank">博客 - 腾讯安全应急响应中心</a>
+* <a href="http://cve.scap.org.cn/" target="_blank">SCAP中文社区</a>
+* <a href="http://blog.nsfocus.net" target="_blank">绿盟科技博客</a>
+* <a href="https://www.owasp.org/index.php/Main_Page" target="_blank">OWASP</a>
+* <a href="http://www.securiteam.com/" target="_blank">SecuriTeam.com - A Free Accurate and Independent Source of Vulnerability Information</a>
+* <a href="http://netsecurity.51cto.com/art/201103/252373.htm" target="_blank">十大工具及应用策略搞定OWASP热门威胁</a>
+* <a href="http://netsecurity.51cto.com/secu/ips/index.html" target="_blank">重新审视企业IPS的应用：防御SQL注入攻击的利剑_安全频道_51CTO.COM_领先的中文IT技术网站</a>
+* <a href="http://netsecurity.51cto.com/art/201011/235748.htm" target="_blank">专题：网络安全工具百宝箱_51CTO.COM</a>
+* <a href="http://blog.csdn.net/wizardforcel/article/category/6099880/1" target="_blank">渗透 - wizardforcel的专栏 - 博客频道 - CSDN.NET</a>
+* <a href="http://www.cnvd.org.cn/" target="_blank">国家信息安全漏洞共享平台</a>
+
+
+       
 
 ### 关系数据库 & NoSQL DB
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
 * <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing a KV Store Table of Contents</a>
 * <a href="http://dev.mysql.com/doc/internals/en/index.html" target="_blank">MySQL Internals</a>
 * <a href="http://imysql.cn/" target="_blank">MySQL中文网</a>
-* <a href="http://mysql.taobao.org/index.php/%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB#.E5.B7.A5.E5.85.B7.E4.BB.8B.E7.BB.8D" target="_blank">淘宝MySQL分享资料</a>
+* <a href="http://mysql.taobao.org/index.php/%E8%B5%84%E6%96%99%E5%85%B1%E4%Ba%aB#.E5.B7.a5.E5.85.B7.E4.BB.8B.E7.BB.8D" target="_blank">淘宝MySQL分享资料</a>
 * <a href="http://mysqldba.blogspot.com/" target="_blank">MySQL BlogSpot</a>
 * <a href="http://s.petrunia.net/blog/" target="_blank">Petrunia-MySQL查询优化博客</a>
 * <a href="http://dev.mysql.com/doc/refman/5.6/en/optimization.html" target="_blank">MySQL优化-来自MySQL官网</a>
@@ -56,7 +73,7 @@
 * <a href="http://cenwenchu.iteye.com/?page=10" target="_blank">文初iteye — 开放平台、分布式系统、服务框架</a>
 * <a href="http://www.infoq.com/cn/author/%E5%B2%91%E6%96%87%E5%88%9D“ target="_blank">文初infoq</a>
 * <a href="http://blog.csdn.net/cenwenchu79/" target="_blank">文初csdn博客</a>
-* <a href="http://hitest.aliyun.com/front/share/shareList.htm?spm=0.0.0.0.Rb7GAI" target="_blank">河马测试</a>
+* <a href="http://hitest.aliyun.com/front/share/shareList.htm?spm=0.0.0.0.Rb7GaI" target="_blank">河马测试</a>
 * <a href="http://www.iteblog.com/" target="_blank">大数据平台技术相关</a>
 * <a href="http://it.deepinmind.com/" target="_blank">Java译站</a>
 * <a href="http://ju.outofmemory.cn/" target="_blank">聚客网</a>
@@ -69,7 +86,7 @@
 * <a href="http://www.letiantian.me/" target="_blank">乐天博客</a>
 * <a href="https://blog.codecentric.de/en/" target="_blank">Code Centric</a>
 * <a href="https://blog.twitter.com/" target="_blank">Twitter Engineering Blog</a>
-* <a href="http://blog.2baxb.me/" target="_blank">Axb的自我修养</a>
+* <a href="http://blog.2baxb.me/" target="_blank">axb的自我修养</a>
 
 ### 文献&论文
 
@@ -85,8 +102,8 @@
 * <a href="http://mechanical-sympathy.blogspot.hk/" target="_blank">Mechanical Sympathy</a>
 * <a href="http://bluedavy.me/?p=187" target="_blank">学习JVM的References</a>
 * <a href="http://www.oracle.com/technetwork/articles/java/index.html" target="_blank">Oracle技术官网Java文章</a>
-* <a href="http://www.molotang.com/articles/category/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/%E5%BC%80%E5%8F%91/java/java%E8%AF%AD%E8%A8%80/%E5%B9%B6%E5%8F%91" target="_blank">Java并发与集合类分析</a>
-* <a href="http://apmblog.dynatrace.com/" target="_blank">APM Blog</a>
+* <a href="http://www.molotang.com/articles/category/%E8%aE%a1%E7%aE%97%E6%9C%Ba%E6%8a%80%E6%9C%aF/%E5%BC%80%E5%8F%91/java/java%E8%aF%aD%E8%a8%80/%E5%B9%B6%E5%8F%91" target="_blank">Java并发与集合类分析</a>
+* <a href="http://apmblog.dynatrace.com/" target="_blank">aPM Blog</a>
 
 ### 并发&并行
 
@@ -122,11 +139,11 @@
 * <a href="http://caibinbupt.iteye.com/blog/262412" target="_blank">Hadoop源码分析-蔡斌</a>
 * <a href="http://fengshenwu.com/" target="_blank">封神博客</a>
 * <a href="http://www.binospace.com/" target="_blank">binospace</a>
-* <a href="http://www.cnblogs.com/hseagle/p/Spark.html" target="_blank">Apache Spark源码走读-徽沪一郎</a>
+* <a href="http://www.cnblogs.com/hseagle/p/Spark.html" target="_blank">apache Spark源码走读-徽沪一郎</a>
 
 ### 编程范式
 
-* <a href="http://alexsquest.com/" target="_blank">Alexs Quest - OO</a>
+* <a href="http://alexsquest.com/" target="_blank">alexs Quest - OO</a>
 
 ### 通用算法
 
@@ -135,7 +152,7 @@
 ### 人工智能 & 机器学习
 
 * <a href="http://book.douban.com/subject/5375620/" target="_blank">失控：全人类的最终命运和结局</a>
-* <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank">Clever Algorithms</a>
+* <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank">Clever algorithms</a>
 * <a href="http://blog.jobbole.com/67616/" target="_blank">机器学习入门</a>
 * <a href="http://top.jobbole.com/tag/machine-learning/" target="_blank">机器学习资源-伯乐在线</a>
 * <a href="https://www.coursera.org/course/ml" target="_blank">斯坦福大学机器学习课程</a>
@@ -168,6 +185,6 @@
 * Redis监控：https://github.com/jxqlovejava/redis-faina   https://github.com/jxqlovejava/RedisLive
 
 ### 应用监控
-* <a href="http://sirona.incubator.apache.org/" target="_blank">Apache Sirona-Java应用监控解决方案</a>
+* <a href="http://sirona.incubator.apache.org/" target="_blank">apache Sirona-Java应用监控解决方案</a>
 
 
